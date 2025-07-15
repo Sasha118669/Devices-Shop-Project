@@ -2,9 +2,7 @@ export function createCard(cardData){
     const htmlStamp = `
     <div class="card-content" data-product='${JSON.stringify(cardData)}'>
         <figure class="card">
-            <a href="">
                 <img src="${cardData.imageURL}" alt="product">
-            </a>
             <figcaption>
                 <a href="">${cardData.brand}</a>
                 <div class="flex-between">

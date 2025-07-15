@@ -54,10 +54,12 @@ fetch('./arrProducts.json')
                 modalContainer.style.display = "block";
                 backdrop.style.display ="block";
                 document.body.style.overflow = 'hidden';
+
             } else if(event.target.id === "exitBtn"){
                 modalContainer.style.display = "none";
                 backdrop.style.display ="none";
                 document.body.style.overflow = 'scroll';
+
             } else if(event.target.id === "backdrop"){
                 modalContainer.style.display = "none";
                 backdrop.style.display ="none";
@@ -66,6 +68,10 @@ fetch('./arrProducts.json')
 
             const cardEl = event.target.closest(".card-content");
             if (cardEl && cardEl.dataset.product) {
+
+            if (event.target.tagName === 'A') {
+            event.preventDefault();
+                }
                 const productData = JSON.parse(cardEl.dataset.product);
                 renderProductWindow(productData, cardsData);
             }

@@ -30,7 +30,6 @@ html{
     margin: 20px;
     padding: 10px;
     width: fit-content;
-    border: 2px solid red;
 }
 .card{
     display: flex;
@@ -57,7 +56,6 @@ html{
 .swiper {
     width: 100%;
     height: 100%;
-    border: 2px solid;
   }
   .swiper-slide {
     text-align: center !important;
@@ -292,11 +290,9 @@ html{
     display: flex;
     justify-content: center;
     gap: 2rem;
-    border: 2px solid;
 }
 
 .left-side-menu{
-    border: 2px solid;
     width: 300px;
     background-color: #ffffff;
 }
@@ -304,7 +300,6 @@ html{
 cursor: pointer;
 width: 100%;
 display: inline-block;
-border: 2px solid red;
 }
 .aplleMenu ,
 .samsungMenu, 
@@ -316,7 +311,6 @@ border: 2px solid red;
     width: 100%;
     font-size: 20px;
     padding: 10px;
-border: 2px solid green;
 }
 .aplleMenu :hover{
     color: #010a59;
@@ -337,7 +331,6 @@ border: 2px solid green;
     width: 100%;
     margin-bottom: 30px;
     margin-inline: auto;
-    border: 2px solid;
 }
 
 .footer{
@@ -356,7 +349,6 @@ border: 2px solid green;
 }
 .logo-footer img{
     width: 60px;
-    border-radius: 15px;
 }
 .logo-footer h2{
     color: #fff;
@@ -366,25 +358,21 @@ border: 2px solid green;
 }
 
 .productWindow {
-    border: 2px solid;
     z-index: 100;
     background-color: #ffffff;
     display: flex;
     flex-direction: column;
 }
 .two-sides-PW{
-    border: 2px solid purple;
     display: flex;
 }
 .left-side-picture{
-    border: 2px solid green;
     margin: 20px;
 }
 .left-side-picture img{
     width: 600px;
 }
 .rigth-side-info{
-     border: 2px solid red;
       margin: 20px;
       padding: 15px;
       display: flex;
@@ -394,7 +382,6 @@ border: 2px solid green;
     display: flex;
     flex-wrap: wrap;
     gap: 2rem;
-    border: 2px solid;
     margin-bottom: 50px;
 }
 .rigth-side-info h4{
@@ -407,16 +394,14 @@ border: 2px solid green;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 #buyProductBtn{
-    /* border: none; */
+    border: none;
     fill: #8a8dbc;
     width: fit-content;
 
 }
 .rigth-side-info p{
-    border: 2px solid blue;
     font-size: 20px;
 }
 .similarProducts{
-    border: 2px solid blue;
     margin: 20px;
 }
