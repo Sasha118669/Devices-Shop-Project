@@ -1,0 +1,542 @@
+[
+  {
+    "brand": "iPhone",
+    "price": "450",
+    "imageURL": "/pictures/phones.pictures/iPhone/iPhone11Pro.jpg"
+  },
+  {
+    "brand": "iPhone",
+    "price": "450",
+    "imageURL": "/pictures/phones.pictures/iPhone/iPhone11Pro.jpg"
+  },
+  {
+    "brand": "iPhone",
+    "price": "450",
+    "imageURL": "/pictures/phones.pictures/iPhone/iPhone11Pro.jpg"
+  },
+  {
+    "brand": "iPhone",
+    "price": "450",
+    "imageURL": "/pictures/phones.pictures/iPhone/iPhone11Pro.jpg"
+  },
+  {
+    "brand": "iPhone",
+    "price": "450",
+    "imageURL": "/pictures/phones.pictures/iPhone/iPhone11Pro.jpg"
+  },
+  {
+    "brand": "iPhone",
+    "price": "450",
+    "imageURL": "/pictures/phones.pictures/iPhone/iPhone11Pro.jpg"
+  },
+  {
+    "brand": "iPhone",
+    "price": "450",
+    "imageURL": "/pictures/phones.pictures/iPhone/iPhone11Pro.jpg"
+  },
+  {
+    "brand": "iPhone",
+    "price": "450",
+    "imageURL": "/pictures/phones.pictures/iPhone/iPhone11Pro.jpg"
+  },
+  {
+    "brand": "iPhone",
+    "price": "450",
+    "imageURL": "/pictures/phones.pictures/iPhone/iPhone11Pro.jpg"
+  },
+  {
+    "brand": "iPhone",
+    "price": "450",
+    "imageURL": "/pictures/phones.pictures/iPhone/iPhone11Pro.jpg"
+  },
+  {
+    "brand": "iPhone",
+    "price": "450",
+    "imageURL": "/pictures/phones.pictures/iPhone/iPhone11Pro.jpg"
+  },
+  {
+    "brand": "iPhone",
+    "price": "450",
+    "imageURL": "/pictures/phones.pictures/iPhone/iPhone11Pro.jpg"
+  },
+  {
+    "brand": "samsung",
+    "price": "300",
+    "imageURL": "pictures/phones.pictures/samsungPhone/galexyA36.jpg"
+  },
+  {
+    "brand": "samsung",
+    "price": "300",
+    "imageURL": "pictures/phones.pictures/samsungPhone/galexyA36.jpg"
+  },
+  {
+    "brand": "samsung",
+    "price": "300",
+    "imageURL": "pictures/phones.pictures/samsungPhone/galexyA36.jpg"
+  },
+  {
+    "brand": "samsung",
+    "price": "300",
+    "imageURL": "pictures/phones.pictures/samsungPhone/galexyA36.jpg"
+  },
+  {
+    "brand": "samsung",
+    "price": "300",
+    "imageURL": "pictures/phones.pictures/samsungPhone/galexyA36.jpg"
+  },
+  {
+    "brand": "samsung",
+    "price": "300",
+    "imageURL": "pictures/phones.pictures/samsungPhone/galexyA36.jpg"
+  },
+  {
+    "brand": "samsung",
+    "price": "300",
+    "imageURL": "pictures/phones.pictures/samsungPhone/galexyA36.jpg"
+  },
+  {
+    "brand": "samsung",
+    "price": "300",
+    "imageURL": "pictures/phones.pictures/samsungPhone/galexyA36.jpg"
+  },
+  {
+    "brand": "samsung",
+    "price": "300",
+    "imageURL": "pictures/phones.pictures/samsungPhone/galexyA36.jpg"
+  },
+  {
+    "brand": "samsung",
+    "price": "300",
+    "imageURL": "pictures/phones.pictures/samsungPhone/galexyA36.jpg"
+  },
+  {
+    "brand": "samsung",
+    "price": "300",
+    "imageURL": "pictures/phones.pictures/samsungPhone/galexyA36.jpg"
+  },
+  {
+    "brand": "samsung",
+    "price": "300",
+    "imageURL": "pictures/phones.pictures/samsungPhone/galexyA36.jpg"
+  },
+  {
+    "brand": "xiaomi",
+    "price": "250",
+    "imageURL": "pictures/phones.pictures/xiaomiPhone/xiaomi10Pro.jpg"
+  },
+  {
+    "brand": "xiaomi",
+    "price": "250",
+    "imageURL": "pictures/phones.pictures/xiaomiPhone/xiaomi10Pro.jpg"
+  },
+  {
+    "brand": "xiaomi",
+    "price": "250",
+    "imageURL": "pictures/phones.pictures/xiaomiPhone/xiaomi10Pro.jpg"
+  },
+  {
+    "brand": "xiaomi",
+    "price": "250",
+    "imageURL": "pictures/phones.pictures/xiaomiPhone/xiaomi10Pro.jpg"
+  },
+  {
+    "brand": "xiaomi",
+    "price": "250",
+    "imageURL": "pictures/phones.pictures/xiaomiPhone/xiaomi10Pro.jpg"
+  },
+  {
+    "brand": "xiaomi",
+    "price": "250",
+    "imageURL": "pictures/phones.pictures/xiaomiPhone/xiaomi10Pro.jpg"
+  },
+  {
+    "brand": "xiaomi",
+    "price": "250",
+    "imageURL": "pictures/phones.pictures/xiaomiPhone/xiaomi10Pro.jpg"
+  },
+  {
+    "brand": "xiaomi",
+    "price": "250",
+    "imageURL": "pictures/phones.pictures/xiaomiPhone/xiaomi10Pro.jpg"
+  },
+  {
+    "brand": "xiaomi",
+    "price": "250",
+    "imageURL": "pictures/phones.pictures/xiaomiPhone/xiaomi10Pro.jpg"
+  },
+  {
+    "brand": "xiaomi",
+    "price": "250",
+    "imageURL": "pictures/phones.pictures/xiaomiPhone/xiaomi10Pro.jpg"
+  },
+  {
+    "brand": "xiaomi",
+    "price": "250",
+    "imageURL": "pictures/phones.pictures/xiaomiPhone/xiaomi10Pro.jpg"
+  },
+  {
+    "brand": "xiaomi",
+    "price": "250",
+    "imageURL": "pictures/phones.pictures/xiaomiPhone/xiaomi10Pro.jpg"
+  },
+  {
+    "brand": "iPad",
+    "price": "500",
+    "imageURL": "pictures/tablet.pictures/iPad/ipad5Air.jpg"
+  },
+  {
+    "brand": "iPad",
+    "price": "500",
+    "imageURL": "pictures/tablet.pictures/iPad/ipad5Air.jpg"
+  },
+  {
+    "brand": "iPad",
+    "price": "500",
+    "imageURL": "pictures/tablet.pictures/iPad/ipad5Air.jpg"
+  },
+  {
+    "brand": "iPad",
+    "price": "500",
+    "imageURL": "pictures/tablet.pictures/iPad/ipad5Air.jpg"
+  },
+  {
+    "brand": "iPad",
+    "price": "500",
+    "imageURL": "pictures/tablet.pictures/iPad/ipad5Air.jpg"
+  },
+  {
+    "brand": "iPad",
+    "price": "500",
+    "imageURL": "pictures/tablet.pictures/iPad/ipad5Air.jpg"
+  },
+  {
+    "brand": "iPad",
+    "price": "500",
+    "imageURL": "pictures/tablet.pictures/iPad/ipad5Air.jpg"
+  },
+  {
+    "brand": "iPad",
+    "price": "500",
+    "imageURL": "pictures/tablet.pictures/iPad/ipad5Air.jpg"
+  },
+  {
+    "brand": "iPad",
+    "price": "500",
+    "imageURL": "pictures/tablet.pictures/iPad/ipad5Air.jpg"
+  },
+  {
+    "brand": "iPad",
+    "price": "500",
+    "imageURL": "pictures/tablet.pictures/iPad/ipad5Air.jpg"
+  },
+  {
+    "brand": "iPad",
+    "price": "500",
+    "imageURL": "pictures/tablet.pictures/iPad/ipad5Air.jpg"
+  },
+  {
+    "brand": "iPad",
+    "price": "500",
+    "imageURL": "pictures/tablet.pictures/iPad/ipad5Air.jpg"
+  },
+  {
+    "brand": "galexyTad",
+    "price": "400",
+    "imageURL": "pictures/tablet.pictures/galexyTab/samsungTabActive4Pro.jpg"
+  },
+  {
+    "brand": "galexyTad",
+    "price": "400",
+    "imageURL": "pictures/tablet.pictures/galexyTab/samsungTabActive4Pro.jpg"
+  },
+  {
+    "brand": "galexyTad",
+    "price": "400",
+    "imageURL": "pictures/tablet.pictures/galexyTab/samsungTabActive4Pro.jpg"
+  },
+  {
+    "brand": "galexyTad",
+    "price": "400",
+    "imageURL": "pictures/tablet.pictures/galexyTab/samsungTabActive4Pro.jpg"
+  },
+  {
+    "brand": "galexyTad",
+    "price": "400",
+    "imageURL": "pictures/tablet.pictures/galexyTab/samsungTabActive4Pro.jpg"
+  },
+  {
+    "brand": "galexyTad",
+    "price": "400",
+    "imageURL": "pictures/tablet.pictures/galexyTab/samsungTabActive4Pro.jpg"
+  },
+  {
+    "brand": "galexyTad",
+    "price": "400",
+    "imageURL": "pictures/tablet.pictures/galexyTab/samsungTabActive4Pro.jpg"
+  },
+  {
+    "brand": "galexyTad",
+    "price": "400",
+    "imageURL": "pictures/tablet.pictures/galexyTab/samsungTabActive4Pro.jpg"
+  },
+  {
+    "brand": "galexyTad",
+    "price": "400",
+    "imageURL": "pictures/tablet.pictures/galexyTab/samsungTabActive4Pro.jpg"
+  },
+  {
+    "brand": "galexyTad",
+    "price": "400",
+    "imageURL": "pictures/tablet.pictures/galexyTab/samsungTabActive4Pro.jpg"
+  },
+  {
+    "brand": "galexyTad",
+    "price": "400",
+    "imageURL": "pictures/tablet.pictures/galexyTab/samsungTabActive4Pro.jpg"
+  },
+  {
+    "brand": "galexyTad",
+    "price": "400",
+    "imageURL": "pictures/tablet.pictures/galexyTab/samsungTabActive4Pro.jpg"
+  },
+  {
+    "brand": "xiaomiPad",
+    "price": "350",
+    "imageURL": "pictures/tablet.pictures/xiaomiPad/MiPad4Plus.jpg"
+  },
+  {
+    "brand": "xiaomiPad",
+    "price": "350",
+    "imageURL": "pictures/tablet.pictures/xiaomiPad/MiPad4Plus.jpg"
+  },
+  {
+    "brand": "xiaomiPad",
+    "price": "350",
+    "imageURL": "pictures/tablet.pictures/xiaomiPad/MiPad4Plus.jpg"
+  },
+  {
+    "brand": "xiaomiPad",
+    "price": "350",
+    "imageURL": "pictures/tablet.pictures/xiaomiPad/MiPad4Plus.jpg"
+  },
+  {
+    "brand": "xiaomiPad",
+    "price": "350",
+    "imageURL": "pictures/tablet.pictures/xiaomiPad/MiPad4Plus.jpg"
+  },
+  {
+    "brand": "xiaomiPad",
+    "price": "350",
+    "imageURL": "pictures/tablet.pictures/xiaomiPad/MiPad4Plus.jpg"
+  },
+  {
+    "brand": "xiaomiPad",
+    "price": "350",
+    "imageURL": "pictures/tablet.pictures/xiaomiPad/MiPad4Plus.jpg"
+  },
+  {
+    "brand": "xiaomiPad",
+    "price": "350",
+    "imageURL": "pictures/tablet.pictures/xiaomiPad/MiPad4Plus.jpg"
+  },
+  {
+    "brand": "xiaomiPad",
+    "price": "350",
+    "imageURL": "pictures/tablet.pictures/xiaomiPad/MiPad4Plus.jpg"
+  },
+  {
+    "brand": "xiaomiPad",
+    "price": "350",
+    "imageURL": "pictures/tablet.pictures/xiaomiPad/MiPad4Plus.jpg"
+  },
+  {
+    "brand": "xiaomiPad",
+    "price": "350",
+    "imageURL": "pictures/tablet.pictures/xiaomiPad/MiPad4Plus.jpg"
+  },
+  {
+    "brand": "xiaomiPad",
+    "price": "350",
+    "imageURL": "pictures/tablet.pictures/xiaomiPad/MiPad4Plus.jpg"
+  },
+  {
+    "brand": "macbook",
+    "price": "800",
+    "imageURL": "pictures/laptop.pictures/macbook/MacBookAirRetina13.jpg"
+  },
+  {
+    "brand": "macbook",
+    "price": "800",
+    "imageURL": "pictures/laptop.pictures/macbook/MacBookAirRetina13.jpg"
+  },
+  {
+    "brand": "macbook",
+    "price": "800",
+    "imageURL": "pictures/laptop.pictures/macbook/MacBookAirRetina13.jpg"
+  },
+  {
+    "brand": "macbook",
+    "price": "800",
+    "imageURL": "pictures/laptop.pictures/macbook/MacBookAirRetina13.jpg"
+  },
+  {
+    "brand": "macbook",
+    "price": "800",
+    "imageURL": "pictures/laptop.pictures/macbook/MacBookAirRetina13.jpg"
+  },
+  {
+    "brand": "macbook",
+    "price": "800",
+    "imageURL": "pictures/laptop.pictures/macbook/MacBookAirRetina13.jpg"
+  },
+  {
+    "brand": "macbook",
+    "price": "800",
+    "imageURL": "pictures/laptop.pictures/macbook/MacBookAirRetina13.jpg"
+  },
+  {
+    "brand": "macbook",
+    "price": "800",
+    "imageURL": "pictures/laptop.pictures/macbook/MacBookAirRetina13.jpg"
+  },
+  {
+    "brand": "macbook",
+    "price": "800",
+    "imageURL": "pictures/laptop.pictures/macbook/MacBookAirRetina13.jpg"
+  },
+  {
+    "brand": "macbook",
+    "price": "800",
+    "imageURL": "pictures/laptop.pictures/macbook/MacBookAirRetina13.jpg"
+  },
+  {
+    "brand": "macbook",
+    "price": "800",
+    "imageURL": "pictures/laptop.pictures/macbook/MacBookAirRetina13.jpg"
+  },
+  {
+    "brand": "macbook",
+    "price": "800",
+    "imageURL": "pictures/laptop.pictures/macbook/MacBookAirRetina13.jpg"
+  },
+  {
+    "brand": "samsungbook",
+    "price": "700",
+    "imageURL": "pictures/laptop.pictures/samsungbook/SamsungBook3Ultra.jpg"
+  },
+  {
+    "brand": "samsungbook",
+    "price": "700",
+    "imageURL": "pictures/laptop.pictures/samsungbook/SamsungBook3Ultra.jpg"
+  },
+  {
+    "brand": "samsungbook",
+    "price": "700",
+    "imageURL": "pictures/laptop.pictures/samsungbook/SamsungBook3Ultra.jpg"
+  },
+  {
+    "brand": "samsungbook",
+    "price": "700",
+    "imageURL": "pictures/laptop.pictures/samsungbook/SamsungBook3Ultra.jpg"
+  },
+  {
+    "brand": "samsungbook",
+    "price": "700",
+    "imageURL": "pictures/laptop.pictures/samsungbook/SamsungBook3Ultra.jpg"
+  },
+  {
+    "brand": "samsungbook",
+    "price": "700",
+    "imageURL": "pictures/laptop.pictures/samsungbook/SamsungBook3Ultra.jpg"
+  },
+  {
+    "brand": "samsungbook",
+    "price": "700",
+    "imageURL": "pictures/laptop.pictures/samsungbook/SamsungBook3Ultra.jpg"
+  },
+  {
+    "brand": "samsungbook",
+    "price": "700",
+    "imageURL": "pictures/laptop.pictures/samsungbook/SamsungBook3Ultra.jpg"
+  },
+  {
+    "brand": "samsungbook",
+    "price": "700",
+    "imageURL": "pictures/laptop.pictures/samsungbook/SamsungBook3Ultra.jpg"
+  },
+  {
+    "brand": "samsungbook",
+    "price": "700",
+    "imageURL": "pictures/laptop.pictures/samsungbook/SamsungBook3Ultra.jpg"
+  },
+  {
+    "brand": "samsungbook",
+    "price": "700",
+    "imageURL": "pictures/laptop.pictures/samsungbook/SamsungBook3Ultra.jpg"
+  },
+  {
+    "brand": "samsungbook",
+    "price": "700",
+    "imageURL": "pictures/laptop.pictures/samsungbook/SamsungBook3Ultra.jpg"
+  },
+  {
+    "brand": "xiaomibook",
+    "price": "600",
+    "imageURL": "pictures/laptop.pictures/xiaomibook/MiNotebookAir12.5(2019).jpg"
+  },
+  {
+    "brand": "xiaomibook",
+    "price": "600",
+    "imageURL": "pictures/laptop.pictures/xiaomibook/MiNotebookAir12.5(2019).jpg"
+  },
+  {
+    "brand": "xiaomibook",
+    "price": "600",
+    "imageURL": "pictures/laptop.pictures/xiaomibook/MiNotebookAir12.5(2019).jpg"
+  },
+  {
+    "brand": "xiaomibook",
+    "price": "600",
+    "imageURL": "pictures/laptop.pictures/xiaomibook/MiNotebookAir12.5(2019).jpg"
+  },
+  {
+    "brand": "xiaomibook",
+    "price": "600",
+    "imageURL": "pictures/laptop.pictures/xiaomibook/MiNotebookAir12.5(2019).jpg"
+  },
+  {
+    "brand": "xiaomibook",
+    "price": "600",
+    "imageURL": "pictures/laptop.pictures/xiaomibook/MiNotebookAir12.5(2019).jpg"
+  },
+  {
+    "brand": "xiaomibook",
+    "price": "600",
+    "imageURL": "pictures/laptop.pictures/xiaomibook/MiNotebookAir12.5(2019).jpg"
+  },
+  {
+    "brand": "xiaomibook",
+    "price": "600",
+    "imageURL": "pictures/laptop.pictures/xiaomibook/MiNotebookAir12.5(2019).jpg"
+  },
+  {
+    "brand": "xiaomibook",
+    "price": "600",
+    "imageURL": "pictures/laptop.pictures/xiaomibook/MiNotebookAir12.5(2019).jpg"
+  },
+  {
+    "brand": "xiaomibook",
+    "price": "600",
+    "imageURL": "pictures/laptop.pictures/xiaomibook/MiNotebookAir12.5(2019).jpg"
+  },
+  {
+    "brand": "xiaomibook",
+    "price": "600",
+    "imageURL": "pictures/laptop.pictures/xiaomibook/MiNotebookAir12.5(2019).jpg"
+  },
+  {
+    "brand": "xiaomibook",
+    "price": "600",
+    "imageURL": "pictures/laptop.pictures/xiaomibook/MiNotebookAir12.5(2019).jpg"
+  }
+]
