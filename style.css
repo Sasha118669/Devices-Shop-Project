@@ -272,7 +272,7 @@ html{
     justify-content: center;
     fill: #010a59;
     border: none;
-    background-color: #ffffff;
+    background-color: transparent;
 }
 
 .login{
@@ -299,7 +299,8 @@ html{
 .left-side-menu label{
 cursor: pointer;
 width: 100%;
-display: inline-block;
+display: flex;
+justify-content: space-between;
 }
 .aplleMenu ,
 .samsungMenu, 
@@ -357,6 +358,9 @@ display: inline-block;
     font-weight: bold;
 }
 
+.productWindowContainer {
+    display: none; 
+}
 .productWindow {
     z-index: 100;
     background-color: #ffffff;

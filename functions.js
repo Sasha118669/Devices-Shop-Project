@@ -164,14 +164,17 @@ export function renderProductWindow(cardData, cardsData){
     const productsSection = document.querySelector('.products');
     const saleSlideShow = document.querySelector('.sale-slide-show');
     const productWindowContainer = document.querySelector('.productWindowContainer');
+     const productWindow = document.querySelector('.productWindow');
     const propositions = document.querySelector('#propositions');
-
-    productsSection.style.display = "none";
-    propositions.style.display = "none";
-    if (saleSlideShow) saleSlideShow.innerHTML = "";
-    if (productWindowContainer) {
+    
+   if (productWindowContainer) {
+        productWindowContainer.style.display = "block";
         productWindowContainer.innerHTML = "";
         createProductWindow(cardData, cardsData);
-
     }
-}
+
+    if (productsSection) productsSection.style.display = "none";
+    if (propositions) propositions.style.display = "none";
+    if (saleSlideShow) saleSlideShow.style.display = "none";
+    }
+

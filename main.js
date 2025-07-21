@@ -39,6 +39,24 @@ fetch('./arrProducts.json')
 
 
         document.addEventListener('click', event => {
+
+if (event.target.closest(".logo-header")) {
+
+    const productWindowContainer = document.querySelector('.productWindowContainer');
+    const productsSection = document.querySelector('.products');
+    const saleSlideShow = document.querySelector('.sale-slide-show');
+    const propositions = document.querySelector('#propositions');
+
+    if (productWindowContainer) {
+        productWindowContainer.style.display = "none";
+        productWindowContainer.innerHTML = ""; 
+    }
+    if (productsSection) productsSection.style.display = "flex";
+    if (saleSlideShow) saleSlideShow.style.display = "flex";
+    if (propositions) propositions.style.display = "block";
+    return;
+}
+
             const modalContainer = document.querySelector('.modal-container');
             const backdrop = document.querySelector('#backdrop');
 
